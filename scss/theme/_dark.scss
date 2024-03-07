@@ -5,6 +5,7 @@ html.dark {
     --icon-color: brightness(0) saturate(100%) invert(99%) sepia(4%) saturate(185%) hue-rotate(332deg) brightness(115%) contrast(100%);
 
     --header-bg-color: #171C28;
+    --header-box-shadow: rgba(0, 0, 0, 0.20);
 
 
     --top-act-group-color: #292E39;
@@ -18,5 +19,7 @@ html.dark {
 
     --top-menu-separate: #171C28;
     --menu-column-heading-color: #B9BABE;
+
+    --menu-column-icon-color: brightness(0) saturate(100%) invert(89%) sepia(5%) saturate(1302%) hue-rotate(202deg) brightness(111%) contrast(97%);
 
 }
